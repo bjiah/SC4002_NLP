@@ -1,13 +1,13 @@
 ## SC4002_Project
 
 ### Packages to install using pip:
-datasets
-nltk
-Contractions
-fastText
+datasets\
+nltk\
+Contractions\
+fastText\
 
 ### Files:
-Main Copy.ipynb - to address all the parts except for Part 3.5
+Main Copy.ipynb - to address all the parts except for Part 3.5\
 Enhancement.ipynb - to address Part 3.5
 
 ### Instructions to run the code:
