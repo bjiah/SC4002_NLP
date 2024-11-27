@@ -33,7 +33,7 @@ Installed “fastText” library.\
 Trained supervised and unsupervised models to provide word embeddings of unknown words. \
 Implemented code to handle OOV words using fastText and remove OOV words less than MIN_COUNT.
 
-*Part 2*
+*Part 2*\
 Plotted the distribution of Movie Review Lengths and retrieved the maximum length of input sequences for model training.\
 Pre-processed the text from train, validation and test datasets into word embeddings to be used in training, validation and testing of models.\
 Model Training:
@@ -43,7 +43,7 @@ Outputted the train, validation and test accuracies of the following models afte
 - Train the RNN with average pooling
 - Train the RNN model with the concatenation of average and max pooling
 
-*Part 3*
+*Part 3*\
 Outputted the train, validation and test accuracies of the following models after determining the optimal configuration and training of the models
 - Trainable Layers
 - Training of RNN with OOV being handled
