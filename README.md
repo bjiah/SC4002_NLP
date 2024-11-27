@@ -4,7 +4,7 @@
 datasets\
 nltk\
 Contractions\
-fastText\
+fastText
 
 ### Files:
 Main Copy.ipynb - to address all the parts except for Part 3.5\
@@ -21,22 +21,22 @@ Installed “datasets” library.
 Loaded ‘Movie review’ dataset into train, validation and test datasets.
 
 *Part 1(a)*
-Imported “nltk”, “contractions” and other relevant libraries.
+Imported “nltk”, “contractions” and other relevant libraries.\
 Processed and tokenized the training data before computing the size of vocabulary formed from training data.
 
 *Part 1(b)*
-Downloaded Glove pre-trained embeddings.
+Downloaded Glove pre-trained embeddings.\
 Computed the number of out-of-vocabulary (OOV) words.
 
 *Part 1(c)*
-Installed “fastText” library.
-Trained supervised and unsupervised models to provide word embeddings of unknown words. 
+Installed “fastText” library.\
+Trained supervised and unsupervised models to provide word embeddings of unknown words. \
 Implemented code to handle OOV words using fastText and remove OOV words less than MIN_COUNT.
 
 *Part 2*
-Plotted the distribution of Movie Review Lengths and retrieved the maximum length of input sequences for model training.
-Pre-processed the text from train, validation and test datasets into word embeddings to be used in training, validation and testing of models.
-	Model Training:
+Plotted the distribution of Movie Review Lengths and retrieved the maximum length of input sequences for model training.\
+Pre-processed the text from train, validation and test datasets into word embeddings to be used in training, validation and testing of models.\
+	Model Training:\
 	Outputted the train, validation and test accuracies of the following models after determining the optimal configuration and training of the models
 		- Train the RNN with last hidden state
 		- Train the RNN with max pooling
