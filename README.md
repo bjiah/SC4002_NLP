@@ -13,7 +13,7 @@ Enhancement.ipynb - to address Part 3.5
 ### Instructions to run the code:
 For the notebooks, just choose the option to ‘Run All’. Preferably, run Main Copy.ipynb first before running Enhancement.ipynb.
 
-### Main Copy.ipynb
+### SC4002_code.ipynb
 Table of Contents: 
 
 *Part 0*\
